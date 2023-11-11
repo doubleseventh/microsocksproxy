@@ -9,6 +9,10 @@ microsocks.exe and cygwin1.dll are included.
 The Linux cli version can be downloaded here:
 https://github.com/rofl0r/microsocks/releases
 
+run in cmd
+microsocks.exe -1 -i listenip -p port -u user -P password -b bindaddr
+-1 auth_once
+
 #### You can launch several proxies using the cli (adapt the command line)
 
 ```
